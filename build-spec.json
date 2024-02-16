@@ -14,23 +14,23 @@
     },{
       "project_name": "PIC-SURE Auth Micro-App Build",
       "project_job_git_key":"PSAMA",
-      "git_hash": "v2.3.0-fence"
+      "git_hash": "release"
     },{
       "project_name": "PIC-SURE-HPDS-UI Build",
       "project_job_git_key":"PSHU",
-      "git_hash": "v2.7.0"
+      "git_hash": "release"
     },{
       "project_name": "PIC-SURE-SEARCH Build",  
       "project_job_git_key":"PSS",
-      "git_hash": "v2.2.0"
+      "git_hash": "release"
     },{
       "project_name": "biodatacatalyst-ui",
       "project_job_git_key":"BDCU",
-      "git_hash": "v2.8.1"
+      "git_hash": "release"
     },{
       "project_name": "OPEN-ACCESS-BDC Build",
       "project_job_git_key":"OPENBDC",  
-      "git_hash": "v1.5.3"
+      "git_hash": "release"
     }
   ],
   "terraform_vars": [{
