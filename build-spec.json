@@ -29,7 +29,7 @@
       "git_hash": "ALS-5077"
     },{
       "project_name": "OPEN-ACCESS-BDC Build",
-      "project_job_git_key":"OVERRIDE",  
+      "project_job_git_key":"OVERRIDE_UI",  
       "git_hash": "release"
     }
   ],
