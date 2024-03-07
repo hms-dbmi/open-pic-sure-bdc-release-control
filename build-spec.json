@@ -30,7 +30,7 @@
     },{
       "project_name": "OPEN-ACCESS-BDC Build",
       "project_job_git_key":"OVERRIDE_UI",  
-      "git_hash": "v1.5.4"
+      "git_hash": "release"
     }
   ],
   "terraform_vars": [{
