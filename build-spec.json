@@ -26,11 +26,11 @@
     },{
       "project_name": "biodatacatalyst-ui",
       "project_job_git_key":"BDCU",
-      "git_hash": "release"
+      "git_hash": "v2.8.2"
     },{
       "project_name": "OPEN-ACCESS-BDC Build",
       "project_job_git_key":"OVERRIDE_UI",  
-      "git_hash": "release"
+      "git_hash": "v1.5.4"
     }
   ],
   "terraform_vars": [{
@@ -44,5 +44,5 @@
   ,
   "source_dictionary_s3_object_key" : "s3://avillach-73-bdcatalyst-etl/general/hpds/javabin/dictionary_javabin_03-06-24.tar.gz"   
   ,
-  "infrastructure_git_hash" : "release/0003"  
+  "infrastructure_git_hash" : "v4.0.1-beta"  
 }
