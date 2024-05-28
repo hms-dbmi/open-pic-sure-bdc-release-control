@@ -6,43 +6,40 @@
     {
       "project_name": "PIC-SURE-API Build",
       "project_job_git_key":"PSA",
-      "git_hash": "v2.13.1"
+      "git_hash": "v2.14.1"
     },{
       "project_name": "PIC-SURE-HPDS Build",
       "project_job_git_key":"PSH",
-      "git_hash": "v3.0.1-beta"
+      "git_hash": "v4.1.1-beta"
     },{
       "project_name": "PIC-SURE Auth Micro-App Build",
       "project_job_git_key":"PSAMA",
-      "git_hash": "v2.5.0-fence"
+      "git_hash": "v2.6.0-fence"
     },{
-      "project_name": "PIC-SURE-HPDS-UI Build",
+      "project_name": "PIC-SURE-CORE-FRONTEND Build",
       "project_job_git_key":"PSHU",
-      "git_hash": "v2.10.0"
+      "git_hash": "v2.11.0"
     },{
       "project_name": "PIC-SURE-SEARCH Build",  
       "project_job_git_key":"PSS",
       "git_hash": "v2.2.0"
     },{
-      "project_name": "biodatacatalyst-ui",
+      "project_name": "PIC-SURE-BDC-FRONTEND Build",
       "project_job_git_key":"BDCU",
-      "git_hash": "v2.11.0"
+      "git_hash": "v2.11.1"
     },{
-      "project_name": "OPEN-ACCESS-BDC Build",
+      "project_name": "OPEN-PIC-SURE-BDC-FRONTEND Build",
       "project_job_git_key":"OVERRIDE_UI",  
       "git_hash": "v1.9.0"
     }
   ],
-  "terraform_vars": [{
-    "dataset_s3_object_key" : "data/biocatalyst_javabins_11_26_2019_rekeyed.tar.gz"
-  }],
-  "source_dataset_s3_url" : "s3://avillach-73-bdcatalyst-etl/general/hpds/javabin/biodatacatalyst_javabins_data_analyzer_05-09-24.tar.gz"        
+  "source_dataset_s3_url" : "s3://avillach-73-bdcatalyst-etl/general/hpds/javabin/biodatacatalyst_javabins_data_analyzer_05-24-24.tar.gz"        
   ,
-  "source_destigmatized_dataset_s3_url" : "s3://avillach-73-bdcatalyst-etl/general/hpds/javabin/biodatacatalyst_javabins_data_analyzer_05-09-24.tar.gz"       
+  "source_destigmatized_dataset_s3_url" : "s3://avillach-73-bdcatalyst-etl/general/hpds/javabin/biodatacatalyst_javabins_data_analyzer_05-24-24.tar.gz"       
   ,
   "source_genomic_dataset_s3_url" :  "s3://avillach-73-bdcatalyst-etl/general/hpds/genomics_javabins/04-07-21/all/"
   ,
-  "source_dictionary_s3_object_key" : "s3://avillach-73-bdcatalyst-etl/general/hpds/javabin/dictionary_javabin_05-09-24.tar.gz"   
+  "source_dictionary_s3_object_key" : "s3://avillach-73-bdcatalyst-etl/general/hpds/javabin/dictionary_javabin_05-24-24.tar.gz"   
   ,
   "infrastructure_git_hash" : "v4.2.2"  
 }
