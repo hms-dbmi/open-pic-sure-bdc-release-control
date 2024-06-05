@@ -26,7 +26,7 @@
     },{
       "project_name": "PIC-SURE-BDC-FRONTEND Build",
       "project_job_git_key":"BDCU",
-      "git_hash": "v2.11.1"
+      "git_hash": "master-reset-2024-06-05"
     },{
       "project_name": "OPEN-PIC-SURE-BDC-FRONTEND Build",
       "project_job_git_key":"OVERRIDE_UI",  
