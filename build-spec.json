@@ -16,7 +16,7 @@
       "project_job_git_key":"PSAMA",
       "git_hash": "release"
     },{
-      "project_name": "PIC-SURE-SEARCH Build",
+      "project_name": "PIC-SURE Dictionary Build",
       "project_job_git_key":"PSS",
       "git_hash": "ALS-7051"
     },{
