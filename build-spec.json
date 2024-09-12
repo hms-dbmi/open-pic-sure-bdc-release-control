@@ -30,7 +30,7 @@
     },{
       "project_name": "OPEN-PIC-SURE-BDC-FRONTEND Build",
       "project_job_git_key":"OVERRIDE_UI",  
-      "git_hash": "v1.10.0"
+      "git_hash": "v1.10.1"
     }
   ],
   "source_dataset_s3_url" : "s3://avillach-73-bdcatalyst-etl/general/hpds/javabin/biodatacatalyst_javabins_data_analyzer_09-04-24.tar.gz"        
